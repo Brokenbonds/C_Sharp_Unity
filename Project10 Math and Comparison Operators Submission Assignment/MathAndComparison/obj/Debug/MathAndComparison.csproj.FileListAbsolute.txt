@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project9 Console Application Challenge\MathAndComparison\bin\Debug\MathAndComparison.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project9 Console Application Challenge\MathAndComparison\bin\Debug\MathAndComparison.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project9 Console Application Challenge\MathAndComparison\bin\Debug\MathAndComparison.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project9 Console Application Challenge\MathAndComparison\obj\Debug\MathAndComparison.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project9 Console Application Challenge\MathAndComparison\obj\Debug\MathAndComparison.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project9 Console Application Challenge\MathAndComparison\obj\Debug\MathAndComparison.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project9 Console Application Challenge\MathAndComparison\obj\Debug\MathAndComparison.pdb
