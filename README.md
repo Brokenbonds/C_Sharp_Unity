@@ -9,3 +9,6 @@ Created a program that took in 2 peoples wage information, then spits out their 
 
 # Project11 Boolean Logic Submission Assignment<br>
 Created a program that assesses weather or not somone is fit for inssurance using boolean logic
+
+# Project 16 Branching Submission Assignment
+This Program takes in User data regarding a package. Once the Weight, Height, Width, and Length of the package has been gathered it gives a quote based off these factors.
