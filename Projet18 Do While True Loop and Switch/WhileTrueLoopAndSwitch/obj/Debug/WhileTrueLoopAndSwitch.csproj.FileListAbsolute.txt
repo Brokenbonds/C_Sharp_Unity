@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Projet18 While True Loop\WhileTrueLoopAndSwitch\obj\Debug\WhileTrueLoopAndSwitch.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Projet18 While True Loop\WhileTrueLoopAndSwitch\obj\Debug\WhileTrueLoopAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Projet18 While True Loop\WhileTrueLoopAndSwitch\bin\Debug\WhileTrueLoopAndSwitch.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Projet18 While True Loop\WhileTrueLoopAndSwitch\bin\Debug\WhileTrueLoopAndSwitch.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Projet18 While True Loop\WhileTrueLoopAndSwitch\bin\Debug\WhileTrueLoopAndSwitch.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Projet18 While True Loop\WhileTrueLoopAndSwitch\obj\Debug\WhileTrueLoopAndSwitch.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Projet18 While True Loop\WhileTrueLoopAndSwitch\obj\Debug\WhileTrueLoopAndSwitch.pdb
