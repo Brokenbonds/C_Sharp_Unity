@@ -6,3 +6,6 @@ Created a program that was a mock of the Daily report system for the Tech Academ
 
 # Project 10 Math and Comparison Operators Submission Assignment<br>
 Created a program that took in 2 peoples wage information, then spits out their annual salary and checks to see who made more.
+
+# Project11 Boolean Logic Submission Assignment<br>
+Created a program that assesses weather or not somone is fit for inssurance using boolean logic
