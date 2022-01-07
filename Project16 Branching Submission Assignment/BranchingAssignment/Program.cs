@@ -20,13 +20,14 @@ namespace BranchingAssignment
             Console.WriteLine("\r\nWhat is your packages length in inches, please use only numbers");
             double packageLength = Convert.ToDouble(Console.ReadLine());
 
-            if (packageHeight + packageLength + packageWeight > 50)
+            if (packageHeight + packageLength + packageWidth > 50)
             {
+
                 Console.WriteLine("Package too big to be shipped via Package Express.");
             }
             //this equation is not giving me my .00 for the cents. 
             decimal packagePricing = Convert.ToDecimal(((packageHeight * packageLength * packageWidth) * packageWeight) / 100);
-            Console.WriteLine("your quote is $" + packagePricing);
+            Console.WriteLine("your quote is "+String.Format("{0:C}", packagePricing));
             Console.ReadLine();
 
         }
