@@ -15,3 +15,9 @@ This Program takes in User data regarding a package. Once the Weight, Height, Wi
 
 # Project 18 Do While True Loop and Switch<br>
 This Program uses both a while true loop and a do while true loop. First comes the while true loop that cycles through a request for 1 of 3 names. Once that is give, it goes to the do while true loop and askes you to guess a number between 1-100 with a very good hint.
+
+#Project 21 Arrays Submission Assignment<br>
+Practice with Arrays
+
+# Project 23 Six Part Submission Assignment<br>
+A large assignment where I have to use all the tools I've learned up to this point to create the Apps that where requested of me
