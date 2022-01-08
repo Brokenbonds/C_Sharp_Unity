@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project23 Six Part Assignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project23 Six Part Assignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project23 Six Part Assignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project23 Six Part Assignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project23 Six Part Assignment\SixPartAssignment\bin\Debug\SixPartAssignment.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project23 Six Part Assignment\SixPartAssignment\obj\Debug\SixPartAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project23 Six Part Assignment\SixPartAssignment\obj\Debug\SixPartAssignment.pdb
