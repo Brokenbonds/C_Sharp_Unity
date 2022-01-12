@@ -42,6 +42,7 @@ namespace ExceptionAssignment
             }
             finally
             {
+                Console.WriteLine("You have emerged from the try/catch block and are continuing on with the program execution.")
                 Console.ReadLine();
             }
         }
