@@ -18,8 +18,13 @@ namespace SixPartAssignment
             //part1 
 
             Console.WriteLine("please type something");
+            StringArray[0] = "I";
+            StringArray[1] = "Think";
+            StringArray[2] = "I";
+            StringArray[3] = "got";
+            StringArray[4] = "it"; 
 
-            for (int i = 0; i <= StringArray.Length; i++)
+            for (int i = 5; i <= StringArray.Length; i++)
             {
                 string userFirstStringInput = Console.ReadLine();
                 StringArray[i] = userFirstStringInput;
@@ -109,7 +114,7 @@ namespace SixPartAssignment
             Console.WriteLine("\nNow we search through the Array and print anything equal or less then 7\nPlease press Enter to proceed.");
             Console.ReadLine();
 
-            for (int i = 0; i < numbersArray.Length; i++)
+            for (int i = 0; i <= numbersArray.Length; i++)
             {
                 if (numbersArray[i] <= 7)
                 {
