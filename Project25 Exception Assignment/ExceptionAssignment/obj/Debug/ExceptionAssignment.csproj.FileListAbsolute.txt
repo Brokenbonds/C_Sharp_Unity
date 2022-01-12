@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project25 Exception Assignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project25 Exception Assignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project25 Exception Assignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project25 Exception Assignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project25 Exception Assignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project25 Exception Assignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project25 Exception Assignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.pdb

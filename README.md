@@ -21,3 +21,6 @@ Practice with Arrays
 
 # Project 23 Six Part Submission Assignment<br>
 A large assignment where I have to use all the tools I've learned up to this point to create the Apps that where requested of me
+
+# Project 25 Exception Assignment<br>
+Using a try catch statement we ask for a number from the user and if they don't produce a whole number we check through a number of catch statments before running the final statment.
