@@ -27,3 +27,6 @@ Using a try catch statement we ask for a number from the user and if they don't 
 
 # Project 27 Method Assignment<br>
 Created four methods that each take an integer parameter the user has input and return an integer. The methods perform addition, division, remainder, and multiplication.
+
+# Project 28 Method Submission Assignment<br>
+Created 3 methods with differing math operations but the same name in a different class. I then called each of the methods requiring a string, int, and decimal, and checked to see if they would return an Integer.
