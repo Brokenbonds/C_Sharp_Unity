@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project27 Method Assignment\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project27 Method Assignment\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project27 Method Assignment\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project27 Method Assignment\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project27 Method Assignment\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project27 Method Assignment\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project27 Method Assignment\MethodAssignment\obj\Debug\MethodAssignment.pdb

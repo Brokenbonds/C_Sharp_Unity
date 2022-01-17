@@ -24,3 +24,6 @@ A large assignment where I have to use all the tools I've learned up to this poi
 
 # Project 25 Exception Assignment<br>
 Using a try catch statement we ask for a number from the user and if they don't produce a whole number we check through a number of catch statments before running the final statment.
+
+# Project 27 Method Assignment<br>
+Created four methods that each take an integer parameter the user has input and return an integer. The methods perform addition, division, remainder, and multiplication.
