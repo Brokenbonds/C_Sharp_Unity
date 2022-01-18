@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project29 Method Submission Assignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project29 Method Submission Assignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project29 Method Submission Assignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project29 Method Submission Assignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project29 Method Submission Assignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project29 Method Submission Assignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project29 Method Submission Assignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.pdb
