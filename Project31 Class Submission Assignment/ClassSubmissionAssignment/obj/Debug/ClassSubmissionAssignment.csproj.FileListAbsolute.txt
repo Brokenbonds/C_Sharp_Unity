@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project31 Class Submission Assignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project31 Class Submission Assignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project31 Class Submission Assignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project31 Class Submission Assignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project31 Class Submission Assignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project31 Class Submission Assignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project31 Class Submission Assignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.pdb
