@@ -12,7 +12,7 @@ namespace ClassSubmissionAssignment
         {
             Console.WriteLine("Please Give me you name.");
             string name = Console.ReadLine();
-            Class1.SayHi(name);
+            Class2.SayHi(name);
             Console.ReadLine();
 
             Class1 class1 = new Class1();

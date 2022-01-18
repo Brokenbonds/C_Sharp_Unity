@@ -27,9 +27,6 @@ namespace ClassSubmissionAssignment
             this.numbers = me;
         }
 
-        public static void SayHi(string name)
-        {
-            Console.WriteLine("Hello " + name);
-        }
+
     }
 }
