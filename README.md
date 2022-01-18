@@ -34,5 +34,8 @@ Created 3 methods in a new class with differing math operations but the same nam
 # Project 29 Method Submission Assignment<br>
 Created a method in a new class that takes 2 user given integers as parameters, but also checks to see if the 2nd parameter has been put in. A try catch was used to ensure that when nothing was put into the second input, it would understand to use the default value.
 
-# Project 30 Class Submission Assignment
+# Project 30 Class Submission Assignment<br>
 Created a new class and a void method in that class that takes 2 integers as parameters. The method does a math operation on the first integer and displays the second integer to the screen.
+
+# Project 31 Another Class Submission Assignment<br>
+Create a class that has 4 methods in it as requested in this assignment. I had to create an input and output on a Void method, create a method with output parameters, overload the same method, and create a static class.
