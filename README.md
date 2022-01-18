@@ -26,10 +26,13 @@ A large assignment where I have to use all the tools I've learned up to this poi
 Using a try catch statement we ask for a number from the user and if they don't produce a whole number we check through a number of catch statments before running the final statment.
 
 # Project 27 Method Assignment<br>
-Created four methods that each take an integer parameter the user has input and return an integer. The methods perform addition, division, remainder, and multiplication.
+Created four methods in a new class that each take an integer parameter the user has input and return an integer. The methods perform addition, division, remainder, and multiplication.
 
 # Project 28 Method Submission<br>
-Created 3 methods with differing math operations but the same name in a different class. I then called each of the methods requiring a string, int, and decimal, and checked to see if they would return an Integer.
+Created 3 methods in a new class with differing math operations but the same name in a different class. I then called each of the methods requiring a string, int, and decimal, and checked to see if they would return an Integer.
 
 # Project 29 Method Submission Assignment<br>
-Created a method that takes 2 user given integers as parameters, but also checks to see if the 2nd parameter has been put in. A try catch was used to ensure that when nothing was put into the second input, it would understand to use the default value.
+Created a method in a new class that takes 2 user given integers as parameters, but also checks to see if the 2nd parameter has been put in. A try catch was used to ensure that when nothing was put into the second input, it would understand to use the default value.
+
+# Project 30 Class Submission Assignment
+Created a new class and a void method in that class that takes 2 integers as parameters. The method does a math operation on the first integer and displays the second integer to the screen.
