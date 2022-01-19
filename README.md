@@ -39,3 +39,6 @@ Created a new class and a void method in that class that takes 2 integers as par
 
 # Project 31 Another Class Submission Assignment<br>
 Create a class that has 4 methods in it as requested in this assignment. I had to create an input and output on a Void method, create a method with output parameters, overload the same method, and create a static class.
+
+# Project 32 Methods and Objects Submission Assignment<br>
+Created two classes, a Person class, and an Employee class. I populated the Person class with two properties, a Firstname, and Lastname. As well as a method called SayName(). After, In the Employee class I populated it with a property called ID while having it inherit from the Person class. I then instantiated the Employee Class and called for the Firstname, giving it a string of Sample. Then calling LastName and giving it a string of Student. Lastly Calling the superclass method SayName() on the Employee object.
