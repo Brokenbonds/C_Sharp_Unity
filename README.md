@@ -42,3 +42,6 @@ Create a class that has 4 methods in it as requested in this assignment. I had t
 
 # Project 32 Methods and Objects Submission Assignment<br>
 Created two classes, a Person class, and an Employee class. I populated the Person class with two properties, a Firstname, and Lastname. As well as a method called SayName(). After, In the Employee class I populated it with a property called ID while having it inherit from the Person class. I then instantiated the Employee Class and called for the Firstname, giving it a string of Sample. Then calling LastName and giving it a string of Student. Lastly Calling the superclass method SayName() on the Employee object.
+
+# Project 33 Abstract Class Submission <br>\
+Created an abstract class called Person that has 2 public string properties and a method called SayName(). Created another class called Employee that Inheritied from Person and Implements the SayName() method. Then instantiated the Employee class into the Main() program to get firstName and lastNae properties with "sample" "student" and called the SayName method.
