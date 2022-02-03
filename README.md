@@ -43,5 +43,11 @@ Create a class that has 4 methods in it as requested in this assignment. I had t
 # Project 32 Methods and Objects Submission Assignment<br>
 Created two classes, a Person class, and an Employee class. I populated the Person class with two properties, a Firstname, and Lastname. As well as a method called SayName(). After, In the Employee class I populated it with a property called ID while having it inherit from the Person class. I then instantiated the Employee Class and called for the Firstname, giving it a string of Sample. Then calling LastName and giving it a string of Student. Lastly Calling the superclass method SayName() on the Employee object.
 
-# Project 33 Abstract Class Submission <br>\
+# Project 33 Abstract Class Submission <br>
 Created an abstract class called Person that has 2 public string properties and a method called SayName(). Created another class called Employee that Inheritied from Person and Implements the SayName() method. Then instantiated the Employee class into the Main() program to get firstName and lastNae properties with "sample" "student" and called the SayName method.
+
+# Project 34 Polymorph Assignment <br>
+Added an Interface class called IQuittable to the last program and had the Employee Class inherite that interface. Then useing polymorph I brought in IQuittable as the Employee class and ran Quit.
+
+# Project 35 Overloading the '==' Operator <br>
+Added in a ID property for the Employ Class. Then created an overloading operator that uses the '==' operator which checks 2 employee id's to see if they are the same or not. Then exported a message to the console accordingly.
