@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project36 Generic Parameters Assignment\Generic List Submission Assignment\obj\Debug\Generic List Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project36 Generic Parameters Assignment\Generic List Submission Assignment\obj\Debug\Generic List Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project36 Generic Parameters Assignment\Generic List Submission Assignment\bin\Debug\Generic List Submission Assignment.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project36 Generic Parameters Assignment\Generic List Submission Assignment\bin\Debug\Generic List Submission Assignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project36 Generic Parameters Assignment\Generic List Submission Assignment\bin\Debug\Generic List Submission Assignment.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project36 Generic Parameters Assignment\Generic List Submission Assignment\obj\Debug\Generic List Submission Assignment.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project36 Generic Parameters Assignment\Generic List Submission Assignment\obj\Debug\Generic List Submission Assignment.pdb

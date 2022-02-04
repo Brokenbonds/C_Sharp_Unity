@@ -51,3 +51,6 @@ Added an Interface class called IQuittable to the last program and had the Emplo
 
 # Project 35 Overloading the '==' Operator <br>
 Added in an ID property for the Employ Class. Then created an overloading operator that uses the '==' operator which checks 2 employees id's to see if they are the same or not. Then export a message to the console accordingly.
+
+# Project 36 Generic Parameters
+Created A class with a generic list perameter, instanciated it into the main progarm then used it to create a string and int.
