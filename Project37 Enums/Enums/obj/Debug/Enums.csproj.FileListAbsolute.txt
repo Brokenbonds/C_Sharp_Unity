@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project37 Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project37 Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project37 Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project37 Enums\Enums\bin\Debug\Enums.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project37 Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project37 Enums\Enums\obj\Debug\Enums.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project37 Enums\Enums\obj\Debug\Enums.pdb
