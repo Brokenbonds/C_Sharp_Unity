@@ -12,35 +12,48 @@ namespace Enums
         {
             try
             {
-                DayOfWeek today = DayOfWeek.Wednesday;
-
-                Console.Write("what is the current day of the week\ntoday is {0}\n", today);
-                string UserAnswer = Console.ReadLine();
-                
-
-                if (UserAnswer.Equals(Convert.ToString(today)))
+                Console.Write("what is the current day of the week\n");
+                string UserAnswer = Console.ReadLine().ToLower();
+                bool isNumeric = int.TryParse(UserAnswer, out int result);
+                if (!isNumeric)
                 {
-                    Console.WriteLine("This is correct");
-                    Console.ReadLine();
-                    Environment.Exit(0);
-                } 
+                    DaysoftheWeek today = (DaysoftheWeek)Enum.Parse(typeof(DaysoftheWeek), UserAnswer);
+                    Console.WriteLine("Setting today to {0}", today);
+                }
+                else
+                {
+                    Console.WriteLine("please enter an actual day of the week");
+                }
+                
             }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("please enter an actual day of the week");
+            }
+
             finally
             {
-                Console.WriteLine("please enter an actual day of the week");
+                
+                Console.WriteLine("Thank you");
                 Console.ReadLine();
             }
 
         }
         public enum DaysoftheWeek
         {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
+            monday,
+            tuesday,
+            wednesday,
+            thursday,
+            friday,
+            saturday,
+            sunday
+        }
+
+        public enum UsersAnswerEnum
+        {
+
         }
     }
 }

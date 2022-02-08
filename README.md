@@ -56,4 +56,4 @@ Added in an ID property for the Employ Class. Then created an overloading operat
 Created A class with a generic list perameter, instanciated it into the main progarm then used it to create a string and int.
 
 # Project 37 Enums Project <br>
-Created a Enum that holds the days of the week, had an if statement check to see if it matches the Users input. This is all wrapped in a try catch block, if it does not finish then it will make it to the final block and print out a message.
+Created a Enum that holds the days of the week, then ask the user for the current date. Program checks for a number, if true then states to put in a day. If it's not a number then continues to check if the string given is in the Enum Daysoftheweek. If not it sends out a error code to the catch, if so it goes to finaly.
