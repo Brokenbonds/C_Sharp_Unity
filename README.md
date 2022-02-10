@@ -57,3 +57,10 @@ Created A class with a generic list perameter, instanciated it into the main pro
 
 # Project 37 Enums Project <br>
 Created a Enum that holds the days of the week, then ask the user for the current date. Program checks for a number, if true then states to put in a day. If it's not a number then continues to check if the string given is in the Enum Daysoftheweek. If not it sends out a error code to the catch, if so it goes to finaly.
+
+# Project 38 Struct Challenge <br>
+Created a Struct that holds a number. Called it in the main program, made a copy of it and had the number Writen to the console.
+
+# Project 40 Lambda Expression Assignment
+
+Created 2 lambda expressions that looped through a list then took the qualifying values and put them into another list. One was based on ID number the other firstName.

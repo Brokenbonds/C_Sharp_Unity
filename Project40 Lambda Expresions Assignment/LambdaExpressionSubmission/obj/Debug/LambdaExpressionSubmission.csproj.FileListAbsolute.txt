@@ -1,0 +1,7 @@
+C:\Users\phill\Desktop\Basic_C#_Programs\Project40 Lambda Expresions Assignment\LambdaExpressionSubmission\obj\Debug\LambdaExpressionSubmission.csproj.AssemblyReference.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project40 Lambda Expresions Assignment\LambdaExpressionSubmission\obj\Debug\LambdaExpressionSubmission.csproj.CoreCompileInputs.cache
+C:\Users\phill\Desktop\Basic_C#_Programs\Project40 Lambda Expresions Assignment\LambdaExpressionSubmission\bin\Debug\LambdaExpressionSubmission.exe.config
+C:\Users\phill\Desktop\Basic_C#_Programs\Project40 Lambda Expresions Assignment\LambdaExpressionSubmission\bin\Debug\LambdaExpressionSubmission.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project40 Lambda Expresions Assignment\LambdaExpressionSubmission\bin\Debug\LambdaExpressionSubmission.pdb
+C:\Users\phill\Desktop\Basic_C#_Programs\Project40 Lambda Expresions Assignment\LambdaExpressionSubmission\obj\Debug\LambdaExpressionSubmission.exe
+C:\Users\phill\Desktop\Basic_C#_Programs\Project40 Lambda Expresions Assignment\LambdaExpressionSubmission\obj\Debug\LambdaExpressionSubmission.pdb
