@@ -10,11 +10,12 @@ namespace BlackJack
     {
         public Player(string name, int beginningBalance)
         {
-            Hand = new List<Card>)();
+            Hand = new List<Card>();
             Name = name;
             Balance = beginningBalance;
         }
-        public List<Card> Hand { get; set; }
+        private List<Card> _hand = new List<Card>();// once again we set a null list to be used
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } }//if they want to get a Hand List it will return our private _hand and it will set to _hand all values that are sent.
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }

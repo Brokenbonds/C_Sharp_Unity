@@ -22,7 +22,8 @@ namespace BlackJack
                 }
             }
         }
-        public List<Card> Cards { get; set; }
+        private List<Card> _cards = new List<Card>();
+        public List<Card> Cards { get { return _cards; } set { _cards = value; } }
 
         public void Shuffle(int times = 1)
         {

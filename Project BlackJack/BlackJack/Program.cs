@@ -12,7 +12,7 @@ namespace BlackJack
         {
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Lets get started by telling me your name");
             string playername = Console.ReadLine();
-            Console.WriteLine("And how much monye did you bring today?");
+            Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hello {0}. Would you like to play a game of 21 right now?",playername);
             string answer = Console.ReadLine().ToLower();
@@ -23,7 +23,7 @@ namespace BlackJack
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
-                while(player.isActivelyPlaying == true && player.Balance >= 0)
+                while(player.isActivelyPlaying == true && player.Balance > 0)
                 {
                     game.Play();
                 }
