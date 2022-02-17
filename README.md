@@ -61,6 +61,10 @@ Created a Enum that holds the days of the week, then ask the user for the curren
 # Project 38 Struct Challenge <br>
 Created a Struct that holds a number. Called it in the main program, made a copy of it and had the number Writen to the console.
 
-# Project 40 Lambda Expression Assignment
+# Project 40 Lambda Expression Assignment <br>
 
 Created 2 lambda expressions that looped through a list then took the qualifying values and put them into another list. One was based on ID number the other firstName.
+
+# Project 45 DateTime Submission Assignment <br>
+
+This program prints out the current date then asks for a users number. It then prints to the console what the time would be if the number was added in hours. This has been wrapped in a try-catch to insure the user puts in a number that can be Converted to a double.
